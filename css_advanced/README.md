@@ -2,7 +2,7 @@
 
 ## Over view
 
-### SmileSchool is a fictional online learning platform focused on teahing the art of smiling. This project is a responsive HTML website with multiple sections including a header, hero section, testimonials. video tutorials, membership options, AQ and footer.
+#### SmileSchool is a fictional online learning platform focused on teahing the art of smiling. This project is a responsive HTML website with multiple sections including a header, hero section, testimonials. video tutorials, membership options, AQ and footer.
 
 ## Features
 
@@ -33,16 +33,16 @@
 
 ## Usage
 
-### Simply navigate through the website using the menu items:
+#### Simply navigate through the website using the menu items:
 * COURSE
 * PRICING 
 * LOGIN
-### Explore the different sections to learn about smiling techniques, view instructor profiles, and ssee membership options.
+#### Explore the different sections to learn about smiling techniques, view instructor profiles, and ssee membership options.
 
 
 ## Future Improvements
 
-* Add JavaScipt for interactive elements
+* Add JavaScript for interactive elements
 * Implement a proper login system
 * Add more video content
 * Create a backend for user management
@@ -50,12 +50,12 @@
 
 ## Contributing
 
-### Contributions are welcome! Please fork the repository andn create pull request with your changes.
+#### Contributions are welcome! Please fork the repository andn create pull request with your changes.
 
 ## License 
 
-### This project is open source and available under the **MIT License**
+#### This project is open source and available under the **MIT License**
 
 ## Contact
 
-### For questions or feedaback, please contact *lawrenceezealor1@gmail.com*
+#### For questions or feedaback, please contact *lawrenceezealor1@gmail.com*
