@@ -27,7 +27,7 @@
 ## Installation
 
 1. Clone the repository:
-   ` git clone https://github.com/lawwrenz/smileschool.git`
+   ` git clone https://github.com/lawwrenz/alx_html_css.git`
 
 2. open the **index.html** file in your preferred browser
 
@@ -50,7 +50,7 @@
 
 ## Contributing
 
-#### Contributions are welcome! Please fork the repository andn create pull request with your changes.
+#### Contributions are welcome! Please fork the repository and create pull request with your changes.
 
 ## License 
 
