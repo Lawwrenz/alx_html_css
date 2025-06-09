@@ -1,4 +1,4 @@
-# SmileSchool - HTML Project
+# SmileSchool - HTML & CSS Project
 
 ## Over view
 
